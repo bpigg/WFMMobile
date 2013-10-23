@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>WFM Shopping</name>
+    <name>WFM Mobile</name>
 
     <description>
-        WFM shopping list app created in Axure and processed through phonegap to create iOS hybrid-app.
+        WFM mobile web site.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
